@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+bot_venv
+mytoken.py
